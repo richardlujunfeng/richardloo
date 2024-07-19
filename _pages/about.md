@@ -1,6 +1,11 @@
-| permalink: /<br/>title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"<br/>author_profile: true<br/>redirect_from: <br/>  - /about/<br/>  - /about.html |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+---
+permalink: /
+title: "Junfeng Lu - HUST"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 # About me
 
@@ -39,5 +44,3 @@ Vector Database, privacy protection, query processing, Top-k query, RAG (Retriev
 [2023] Huazhong University of Science and Technology Knowledge and Action Scholarship.
 
 [2022] Huazhong University of Science and Technology Knowledge and Action Scholarship.
-
- 
