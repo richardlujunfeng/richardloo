@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mstile-70x70.png"
   name             : "Junfeng Lu / 卢俊锋"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Huazhong University of Science and Technology(HUST), Wuhan, China"
