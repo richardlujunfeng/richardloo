@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junfeng Lu / Database&Privacy"
+title                    : "Junfeng Lu / Database & Privacy"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
