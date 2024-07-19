@@ -1,4 +1,8 @@
-About me
+| permalink: /<br/>title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"<br/>author_profile: true<br/>redirect_from: <br/>  - /about/<br/>  - /about.html |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+# About me
 
 I am currently a Ph.D. student advised by Prof. Xiaofeng Ding in School of Computer Science and Technology at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) and in ([CGCL](http://grid.hust.edu.cn/)) Lab, Database Privacy Protection Group. 
 
