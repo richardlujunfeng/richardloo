@@ -44,3 +44,7 @@ Vector Database, privacy protection, query processing, Top-k query, RAG (Retriev
 [2023] Huazhong University of Science and Technology Knowledge and Action Scholarship.
 
 [2022] Huazhong University of Science and Technology Knowledge and Action Scholarship.
+
+# Honors & Awards
+
+Class monitor from 2018 until now.
