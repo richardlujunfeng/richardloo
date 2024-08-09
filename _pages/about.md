@@ -45,6 +45,6 @@ Vector Database, privacy protection, query processing, Top-k query, RAG (Retriev
 
 [2022] Huazhong University of Science and Technology Knowledge and Action Scholarship.
 
-# Honors & Awards
+# Social Work
 
 Class monitor from 2018 until now.
