@@ -13,7 +13,7 @@ I am currently a Ph.D. student advised by Prof. Xiaofeng Ding in School of Compu
 
 # Research Interests
 
-Vector database, privacy protection, query processing, Top-k query, RAG (Retrieval-augmented Generation), personalized recommender system. Bioinformatics analysis, image segmentation, and boundary recognition, medical AI foundation model. 
+Vector database, privacy protection, query processing, Top-k query, RAG (Retrieval-augmented Generation), personalized recommender system. Bioinformatics analysis, image segmentation, boundary recognition, and medical AI foundation model. 
 
 # Publication
 
