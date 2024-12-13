@@ -24,6 +24,8 @@ Vector database, privacy protection, query processing, Top-k query, RAG (Retriev
 1. PC for CIKM'24.
 
 # Honors & Awards
+[2024] CGCL First-Class Laboratory Scholarship.
+
 [2024] Huazhong University of Science and Technology Graduate Student Leadership Scholarship.
 
 [2024] Huazhong University of Science and Technology Scholarship for Self-Motivation and Advancement.
