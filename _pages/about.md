@@ -24,6 +24,11 @@ Vector Database, privacy protection, query processing, Top-k query, RAG (Retriev
 1. PC for CIKM'24.
 
 # Honors & Awards
+[2024] Huazhong University of Science and Technology Graduate Student Leadership Scholarship.
+
+[2024] Huazhong University of Science and Technology Scholarship for Self-Motivation and Advancement.
+
+[2024] First Prize in the openGauss Track Huawei Kunpeng Application Innovation Competition - Hubei Region.
 
 [2024] Huawei OpenGauss Open Source Community Open Source Contribution Elite Scholarship.
 
