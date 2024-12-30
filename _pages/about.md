@@ -25,6 +25,7 @@ Vector database, privacy protection, query processing, Top-k query, RAG (Retriev
 
 # Honors & Awards
 [2024] Huawei Kunpeng Application Innovation Competition openGauss Track National Gold Award.
+
 \[Memory Usage Analysis and Monitoring Strategy for Single SQL Statements in openGauss\]
 
 [2024] CGCL First-Class Laboratory Scholarship.
@@ -40,6 +41,7 @@ Vector database, privacy protection, query processing, Top-k query, RAG (Retriev
 [2023] Weichai Power Scholarship for Social Welfare.
 
 [2023] Huawei Kunpeng Application Innovation Competition openGauss Track National Gold Award.
+
 \[Secure Medical Consultation System Leveraging Differential Privacy on openGauss\]
 
 [2023] Outstanding graduate student cadre of Huazhong University of Science and Technology.
@@ -47,6 +49,7 @@ Vector database, privacy protection, query processing, Top-k query, RAG (Retriev
 [2023] Huazhong University of Science and Technology Knowledge and Action Scholarship.
 
 [2022] Huawei Kunpeng Application Innovation Competition openGauss Track National Silver Award.
+
 \[A Comprehensive Approach to Secure and Verifiable Location Service Querying Using OpenGauss Database\]
 
 [2022] Dameng Social Scholarship.
